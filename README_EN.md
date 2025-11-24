@@ -1,8 +1,8 @@
-# Claude OpenAI API
+# Claude Code OpenAI API
 
 > **English** | [中文](./README.md)
 
-A fully OpenAI-compatible Claude API wrapper service that exposes the Claude Code agent framework as a standard API interface.
+A fully OpenAI-compatible Claude Code API wrapper service that exposes the Claude Code agent framework as a standard API interface.
 
 ## 🎯 Project Background
 
